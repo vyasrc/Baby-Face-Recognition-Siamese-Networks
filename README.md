@@ -1,4 +1,4 @@
-# Baby_Face_Recognition_Siamese-Networks
+# Baby-Face-Recognition-Siamese-Networks
   A New-Born Baby Face Recognition Using Siamese Neural Networks and One Shot Learning.                                                       
 ### Introduction :-                
 Biometric recognition of new-born babies is an opportunity for the realization of several useful applications, such as improved security against swapping and abduction, accurate census, and effective drug delivery. Here we implement a method for learning Siamese neural networks which employ a unique structure to naturally rank similarity between inputs. Once a network has been tuned, we can then capitalize on powerful discriminative features to generalize the predictive power of the network not just to new data, but to entirely new classes from unknown distributions. One particularly interesting task is classification under the restriction that we may only observe a single example of each possible class before making a prediction about a test instance. This is called one-shot learning and it is the primary focus of our model presented in this work.
