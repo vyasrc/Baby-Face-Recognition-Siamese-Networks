@@ -29,8 +29,9 @@ our termination criterion. We reserved the last 30 babies with 4 baby faces as t
 
 ### Results :-
 ![](https://github.com/vyasrc/Baby-Face-Recognition-Siamese-Networks/blob/master/combined%20(4).png)
-* Training Accuracy - 78.34%
+* Test Accuracy - 78.34%
 * Validation Accuracy - 76.67%
+
 
 ### Conclusion :-
 We have presented a strategy for performing one-shot classification by first learning deep convolutional Siamese neural networks for verification. We considered training for the verification task by processing image pairs and their distortions using a global affine transform.
